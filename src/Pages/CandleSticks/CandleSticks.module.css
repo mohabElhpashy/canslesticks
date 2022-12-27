@@ -1,0 +1,14 @@
+.btngray{
+    width: 5rem;
+    height: 3rem;
+    margin: 1rem;
+}
+.Loading{
+    display: flex;
+    justify-content: center;
+}
+.DATE{
+    display: flex;
+    width: 70%;
+    margin: auto;
+}
